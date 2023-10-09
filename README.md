@@ -3,7 +3,7 @@
 
 ## Description
 
-The folder Mars_news_weather conatians three file. one of jupyter notebook called part_1_mars_news.ipynb scrapes titles and preview text from Mars news articles. while another jupyter notebook called part_2_mars_weather.ipynb scrapes and analyse Mars weather data, which exists in a table. The second jupyter notebook will creates a csv file called mars_data.csv.
+The folder Mars_news_weather contains three files. One of jupyter notebook called part_1_mars_news.ipynb scrapes titles and preview text from Mars news articles. while another jupyter notebook called part_2_mars_weather.ipynb scrapes and analyze Mars weather data, which exists in a table. The second jupyter notebook will create a CSV file called mars_data.csv.
 
 
 ---
